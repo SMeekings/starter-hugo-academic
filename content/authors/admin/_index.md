@@ -1,7 +1,7 @@
 ---
 title: Sophie Meekings
 role: Royal Society Dorothy Hodgkin Research Fellow
-avatar_filename: smeekings_photo.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -21,7 +21,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=WPiBG8wAAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://uk.linkedin.com/in/sophiemeekings
 organizations:
   - name: University of York
     url: https://www.york.ac.uk
@@ -30,6 +30,8 @@ education:
     - course: PhD in Cognitive Neuroscience
       institution: University College London
       year: ""
+    - course: "Visiting Graduate Researcher "
+      institution: McGill University
     - course: MSc in Language Sciences with Linguistics and Neuroscience
       institution: University College London
       year: ""

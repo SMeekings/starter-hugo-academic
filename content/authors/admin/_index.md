@@ -5,12 +5,10 @@ avatar_filename: smeekings_photo.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Speech production in varied environments
-  - Energetic and informational masking
+  - Speech communication
   - Functional neuroimaging
-  - Altered auditory feedback
-  - Stammering
-  - Tourette Syndrome
+  - Voluntary and involuntary vocal control
+  - Speech and neurodiversity
 social:
   - icon: envelope
     icon_pack: fas

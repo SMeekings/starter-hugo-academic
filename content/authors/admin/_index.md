@@ -6,10 +6,11 @@ bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Speech production in varied environments
-  - energetic and informational masking
-  - altered auditory feedback
-  - stammering
-  - Tourette Syndrome.
+  - Energetic and informational masking
+  - Functional neuroimaging
+  - Altered auditory feedback
+  - Stammering
+  - Tourette Syndrome
 social:
   - icon: envelope
     icon_pack: fas
